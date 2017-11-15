@@ -2,7 +2,7 @@ This is **Day 6** of the **JS 30 for 30** challenge.
 
 In this project I created a search box that users can type in letters and words into. The search box then returns everything that matches those characters. In this project the search box returned a json file that contained the names of all of the cities in the US and their respective populations. 
 
-Things I learned: 
+**What I learned: **
 
 fetch() and promise:
 
